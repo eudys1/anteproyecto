@@ -7,7 +7,7 @@ BrokenHearts
 Eudys Rosario Villegas
 
 ## Introducción del proyecto:
-La tarea final para las asignaturas de DAW y DIW fue hacer un e-comerce con wordpress en mi caso hice una especie de portfolio de un fotógrafo que tiene su propia marca cuyo es el título del proyecto, así que, mi idea es rehacer esa pagina que hice con wordpress pero utilizando otras tecnologías.
+La tarea final para las asignaturas de DAW y DIW fue hacer una web que funcionase como e-comerce usando wordpress en mi caso, hice una especie de portfolio de un fotógrafo, así que, mi idea es rehacer esa web que hice con wordpress pero utilizando otras tecnologías.
 
 ## Finalidad:
 Desde esta web se podrá conocer la marca personal del fotógrafo ya que es un porfolio, tambien habra una pagina de galeria donde se puede ver el trabajo que haya hecho, se podrá contactar para dudas o para saber como se podria reservar sesiones de fotos y se podra comprar artículos como camisetas, pantalones... es decir, merchandising con el logo de la marca.
@@ -17,17 +17,17 @@ Una vez puesto en marcha se podrán hacer compras de distintos productos con dif
 
 ## Medios hardware y software a utilizar:
 
-### ** Frontent :** 
+### Frontent :
 	React
 	Next.js
 	Tailwind
 	...
-### ** Backend :** 
+### Backend : 
 	Node.js
 	Frirebase o Mongo db o una mezcla de los dos pero casi seguro que será únicamente Firebase
 	Puede que use una el serverless que trae next.js
 	...
-### ** Otras tecnologías o librerías:** 
+### Otras tecnologías o librerías:
 	Formik para los formularios y Yup para la validación
 	Stripe como plataforma de pago
 	...
